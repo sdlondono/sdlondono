@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to go gym
+- ⚡ Fun fact: I love going to the gym
 
 ### Connect with me:
 
