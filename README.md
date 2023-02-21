@@ -1,8 +1,9 @@
-# Hi there, I'm Samuel Londono from Colombia living in UK 👋 
+# Hi there, I'm Samuel Londono 👋 
 
 
 ## I'm a Emphaty, Innovator and Developer!!
 
+- 🇨🇴 I'm from Colombia living in UK
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Learn more about web3
